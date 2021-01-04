@@ -26,17 +26,17 @@ sourceCompatibility = 1.8
 
 repositories {
     mavenCentral()
-    jcenter()
+    //jcenter()
 }
 
 dependencies {
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
-    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+    //testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    //testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
 
     compile('org.springframework.boot:spring-boot-starter-web')
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
 
-test {
-    useJUnitPlatform()
-}
+//test {
+//    useJUnitPlatform()
+//}
