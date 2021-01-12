@@ -1,0 +1,12 @@
+com/joy/springboot/web/dto/HelloResponseDtoTest.java
+ com.joy.springboot.web.dto.HelloResponseDtoTest
+com/joy/springboot/Application.java
+ com.joy.springboot.Application
+com/joy/springboot/web/IndexControllerTest.java
+ com.joy.springboot.web.IndexControllerTest
+com/joy/springboot/web/HelloControllerTest.java
+ com.joy.springboot.web.HelloControllerTest
+com/joy/springboot/domain/posts/PostsRepositoryTest.java
+ com.joy.springboot.domain.posts.PostsRepositoryTest
+com/joy/springboot/web/PostsApiControllerTest.java
+ com.joy.springboot.web.PostsApiControllerTest
